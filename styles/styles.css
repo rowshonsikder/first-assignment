@@ -49,6 +49,46 @@ header{
     padding-right: 342px;
 }
 
+/* Discount section */
+
+.discount{
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+.discount-amount{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.discount-title{
+    margin-top: 48px;
+
+
+}
+
+.discount-deal{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.discount-category{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+
+
 
 
 
