@@ -196,11 +196,14 @@ header{
     margin-right: 140px;
     margin-left: 140px;
     margin-top: 120px;
+   width: 1320px;
+   height: 482px;
     
 }
 
 .coming-soon-offer{
     width: 393px;
+    padding-top: 90px;
 }
 
 .coming-soon-new{
@@ -228,6 +231,40 @@ header{
 
 }
 
+.coming-soon-clebration{
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 50px;
+
+}
+
+.coming-soon-description{
+    margin-left: 118px;
+    padding-top: 180px;
+    padding-bottom: 0%;
+    
+    
+
+}
+
+.description-date{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.description.details{
+    
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
 
 
 
